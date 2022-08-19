@@ -2,7 +2,7 @@
 
 ## Setup
 
-Run code in Google Colab if your having issues with TensorFlow in pandas
+Click the "Open in Colab" button to run the code
 
 ## Background
 
